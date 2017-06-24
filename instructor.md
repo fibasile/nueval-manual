@@ -35,6 +35,18 @@
 
 - Select the "Setup evaluation" button
 
+{% raw %}
+  <video id="my-video" class="video-js" controls preload="auto" width="770" height="433"
+  poster="media/video/SetupLocalEvaluation.png" data-setup="{}">
+  <source src="media/video/SetupLocalEvaluation.mp4" type='video/mp4'>
+  <source src="media/video/SetupLocalEvaluation.webm" type='video/webm'>
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+  </video>
+{% endraw %}
+
 
 ### Weekly progress
 
@@ -47,6 +59,17 @@
 
 ### Providing feedback
 
+{% raw %}
+  <video id="my-video" class="video-js" controls preload="auto" width="770" height="433"
+  poster="media/video/LeavingFeedback.png" data-setup="{}">
+  <source src="media/video/LeavingFeedback.mp4" type='video/mp4'>
+  <source src="media/video/LeavingFeedback.webm" type='video/webm'>
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+  </video>
+{% endraw %}
 
 
 - In each Week detail page, you can find a feedback form.
@@ -55,6 +78,21 @@
 
 
 ### Requesting global evaluation
+
+{% raw %}
+  <video id="my-video" class="video-js" controls preload="auto" width="770" height="433"
+  poster="media/video/RequestGlobalEval.png" data-setup="{}">
+  <source src="media/video/RequestGlobalEval.mp4" type='video/mp4'>
+  <source src="media/video/RequestGlobalEval.webm" type='video/webm'>
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+  </video>
+{% endraw %}
+
+
+
 
 - When all the units are marked complete you will be able to select the "Request Global Evaluation" button.
 
