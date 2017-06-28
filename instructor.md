@@ -56,6 +56,10 @@
 
 - Once the sliders reach the 90% you will be able to mark the unit complete
 
+- When you mark an unit complete, you can still undo it with the relative button
+
+- The button is not available anymore only when you check the last unit complete
+
 
 ### Providing feedback
 
